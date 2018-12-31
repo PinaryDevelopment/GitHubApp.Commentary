@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GitHub.Commentary", "GitHub.Commentary\GitHub.Commentary.csproj", "{9583E577-463A-4CA9-B2A5-463ECFF4504A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9583E577-463A-4CA9-B2A5-463ECFF4504A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9583E577-463A-4CA9-B2A5-463ECFF4504A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9583E577-463A-4CA9-B2A5-463ECFF4504A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9583E577-463A-4CA9-B2A5-463ECFF4504A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA45F636-D038-4A45-A3DA-101D6241DFA6}
+	EndGlobalSection
+EndGlobal
