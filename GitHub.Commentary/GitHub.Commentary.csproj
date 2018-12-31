@@ -2,7 +2,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <AzureFunctionsVersion>v2</AzureFunctionsVersion>
-    <LangVersion>7.3</LangVersion>
+    <LangVersion>default</LangVersion>
     <AssemblyName>PinaryDevelopment.Utilities.External.GitHub.CommentCreator</AssemblyName>
     <RootNamespace>PinaryDevelopment.Utilities.External.GitHub.CommentCreator</RootNamespace>
   </PropertyGroup>
